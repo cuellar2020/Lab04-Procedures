@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\bin\Debug\Lab03_Cuellar.exe.config
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\bin\Debug\Lab03_Cuellar.exe
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\bin\Debug\Lab03_Cuellar.pdb
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.Form1.resources
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.Properties.Resources.resources
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.exe
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.pdb
+C:\Users\user\source\repos\Lab03_Cuellar\Lab03_Cuellar\obj\Debug\Lab03_Cuellar.Persona.resources
